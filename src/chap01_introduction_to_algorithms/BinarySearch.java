@@ -1,5 +1,12 @@
-package chap01;
+package chap01_introduction_to_algorithms;
 
+/**
+ * 二分查找
+ *
+ * @author mzj
+ * @since 1.0
+ * 19-2-27
+ */
 public class BinarySearch {
     public static void main(String[] args) {
         int[] myList = {1, 3, 5, 7, 9};
